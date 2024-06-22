@@ -1,0 +1,290 @@
+@media only screen and (max-width:767.99px) {
+
+/* topbar css starts  */
+
+.topbar {
+    flex-direction: column;
+    text-align: center;
+}
+.topbar-1 {
+    margin-top: 10px;
+}
+.topbar-1 ul li {
+    margin-right: 9px;
+    word-spacing: -3px;
+}
+.topbar-1 ul li a {
+    font-size: 12px;
+}
+.topbar-1 button {
+    padding: 8px 8px;
+    font-size: 9px;
+}
+.topbar-1 i {
+    margin-right: 0px;
+}
+
+/* topbar css ends  */
+
+/* banner section starts */
+.banner {
+    padding: 50px 0px 100px 0px;
+    text-align: center;
+}
+.left-side h6 {
+    font-size:12px;
+}
+.left-side h1 {
+    font-size: 22px;
+}
+.left-side p {
+    font-size:12px;
+    padding-right: 0px;
+}
+.banner button {
+    padding: 8px 8px;
+    font-size: 9px;
+    margin-top: 0px;
+}
+.right-side img {
+    margin-top: 20px;
+}
+/* banner section ends */
+
+/* solution css starts  */
+.our-sol {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.solution h6 {
+    font-size: 12px;
+}
+.solution h1 {
+    font-size: 22px;
+}
+.solution p {
+    font-size: 12px;
+}
+.sub-solution {
+    display: block;
+}
+.card-one{
+    margin-bottom: 15px;
+}
+.card-two{
+    margin-bottom: 15px;
+}
+.sub-solution .card h3 {
+    font-size: 20px;
+}
+/* solution css ends  */
+
+/* about us css starts  */
+.about-us {
+    padding: 50px 0px;
+}
+.about-two {
+    padding-right: 12px;
+    text-align: center;
+}
+.about-two h6 {
+    font-size: 12px;
+}
+.about-two h1 {
+    font-size: 22px;
+}
+.about-two p {
+    font-size: 12px;
+}
+/* about us css ends  */
+
+/*our mission starts */
+.our-mission {
+    text-align: center;
+}
+.mission h3 {
+    font-size: 20px;
+}
+.mission p, .mission ul li {
+    font-size: 12px;
+}
+
+/*our mission ends */
+
+/* counter css starts  */
+.count {
+    font-size: 16px;
+}
+.para {
+    font-size: 12px;
+}
+/* counter css ends  */
+
+
+/* why choose us css starts  */
+.why-one {
+    padding: 50px 0px 25px 0px;
+}
+.choose {
+    width: 100%;
+    margin-bottom: 22px;
+}
+.why-one h1 {
+    font-size: 22px;
+}
+.why-one p {
+    font-size: 12px;
+}
+.choose-card i {
+    font-size: 16px;
+}
+.rv-one {
+    margin-bottom: 16px;
+}
+
+/* why choose us css ends  */
+
+/* contact us css starts  */
+.social-media {
+    padding: 50px 0px;
+}
+.address-card h4 {
+    font-size: 16px;
+}
+.address-card p {
+    font-size: 12px;
+}
+.address-card i {
+    padding: 20px 20px;
+    font-size: 18px;
+}
+.address-card {
+    margin-bottom: 20px;
+}
+/* contact us css ends  */
+
+/* footer css starts  */
+.footer-rv p {
+    font-size: 12px;
+    width: 95%;
+}
+.footer-top {
+    padding: 8px 0px;
+}
+
+
+/* footer css ends  */
+
+
+
+}
+
+
+/* ---------------------------------- */
+
+@media only screen and (min-width:768px) and (max-width:1023.99px) {
+
+
+    /* topbar css starts  */
+    .topbar {
+        flex-direction: row;
+    }
+    .topbar-1 ul li a {
+        font-size: 15px;
+    }
+    .topbar-1 button {
+        font-size: 12px;
+    }
+    .left-side h6 {
+        font-size: 15px;
+    }
+    .left-side h1 {
+        font-size: 26px;
+    }
+    .left-side p {
+        font-size: 15px;
+    }
+    .banner button {
+        font-size: 12px;
+    }
+    .right-side img {
+        width: 86%;
+    }
+
+
+    .solution h6 {
+        font-size: 15px;
+    }
+    .solution h1 {
+        font-size: 26px;
+    }
+    .solution p {
+        font-size: 15px;
+    }
+
+
+    .about-two h6 {
+        font-size: 15px;
+    }
+    .about-two h1 {
+        font-size: 26px;
+    }
+    .about-two p {
+        font-size: 15px;
+    }
+    .about-two {
+        padding-right: 12px;
+        padding-left: 24px;
+    }
+
+
+    .mission h3 {
+        font-size: 26px;
+    }
+    .mission p, .mission ul li {
+        font-size: 15px;
+    }
+
+
+    .count {
+        font-size: 19px;
+    }
+    .para {
+        font-size: 16px;
+    }
+
+    .why-one h1 {
+        font-size: 26px;
+    }
+    .why-one p {
+        font-size: 15px;
+    }
+    .choose-card i {
+        font-size: 20px;
+    }
+
+
+    .address-card h4 {
+        font-size: 20px;
+    }
+    .address-card p {
+        font-size: 15px;
+    }
+
+
+    .address-card i {
+        padding: 30px 30px;
+        font-size: 30px;
+    }
+
+    .footer-rv p {
+        font-size: 15px;
+    }
+
+
+
+
+
+     /* topbar css ends  */
+
+}
